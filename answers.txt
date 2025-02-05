@@ -9,3 +9,7 @@ Answer: It can be applied to finance. It can be used to find trends in stock mar
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging will combine two branches with a new merge commit and preserve the history and rebase will rewrite the history and apply changes of a branch on top of another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I want to understand neural networks and skills that can be applied to machine learning and predictions.
